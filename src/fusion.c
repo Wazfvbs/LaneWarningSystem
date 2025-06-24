@@ -1,0 +1,1 @@
+// fusion.c - Module implementation

@@ -1,0 +1,1 @@
+// camera.c - Module implementation
