@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.10)
+project(lane_warning_system)
+
+set(CMAKE_CXX_STANDARD 17)
+
+# OpenCV 设置
+find_package(OpenCV REQUIRED)
+
+include_directories(
+    ${OpenCV_INCLUDE_DIRS}
+    include
+)
+
+add_executable(lane_warning_system
+    main.cpp
+    src/camera.cpp
+    src/edge_detect.cpp
+    src/fusion.cpp         # 新增
+    src/lane_detect.cpp
+)
+
+target_link_libraries(lane_warning_system ${OpenCV_LIBS})

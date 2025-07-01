@@ -1,0 +1,10 @@
+^F:\GITHUB\LANEWARNINGSYSTEM\BUILD\CMAKEFILES\0FB00042B03CC2096655DEA7BEE3117D\GENERATE.STAMP.RULE
+setlocal
+"D:\00system\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SF:/Github/LaneWarningSystem -BF:/Github/LaneWarningSystem/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/Github/LaneWarningSystem/build/LaneWarningSystem.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

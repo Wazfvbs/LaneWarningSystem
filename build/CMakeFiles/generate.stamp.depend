@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeCInformation.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake
+D:/00system/Microsoft Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
+F:/Github/LaneWarningSystem/CMakeLists.txt
+F:/Github/LaneWarningSystem/build/CMakeFiles/3.24.202208181-MSVC_2/CMakeCCompiler.cmake
+F:/Github/LaneWarningSystem/build/CMakeFiles/3.24.202208181-MSVC_2/CMakeCXXCompiler.cmake
+F:/Github/LaneWarningSystem/build/CMakeFiles/3.24.202208181-MSVC_2/CMakeRCCompiler.cmake
+F:/Github/LaneWarningSystem/build/CMakeFiles/3.24.202208181-MSVC_2/CMakeSystem.cmake
+F:/opencv/opencv/build/OpenCVConfig-version.cmake
+F:/opencv/opencv/build/OpenCVConfig.cmake
+F:/opencv/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+F:/opencv/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+F:/opencv/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+F:/opencv/opencv/build/x64/vc15/lib/OpenCVModules.cmake
