@@ -1,1 +1,0 @@
-// offset.c - Module implementation
