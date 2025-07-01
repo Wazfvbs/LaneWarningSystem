@@ -1,0 +1,49 @@
+# 编译输出
+*.o
+*.exe
+*.class
+*.pyc
+__pycache__/
+
+# 临时文件
+*.tmp
+*~
+~$*
+*.swp
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 文档临时文件
+~$*.docx
+~$*.xlsx
+
+# VSCode/JetBrains IDE配置
+.vscode/
+.idea/
+
+# 虚拟环境
+.venv/
+env/
+
+# 构建目录
+build/
+dist/
+cmake-build-*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 链接/快捷方式
+*.lnk
+
+# Git忽略文件
+.gitignore
+
+# 历史文件
+.history/
+.vscode/
